@@ -1,0 +1,3 @@
+br\com\ecommerce\NewOrderMain.class
+br\com\ecommerce\EmailService.class
+br\com\ecommerce\FraudDetectorService.class
